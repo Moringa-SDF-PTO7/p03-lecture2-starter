@@ -53,7 +53,7 @@ Each file contains a specific focus, and examples are explained in a simple and 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/python-data-structures.git
+   git clone https://github.com/Moringa-SDF-PTO7/p03-lecture2-starter.git
    cd python-data-structures
    ```
 
