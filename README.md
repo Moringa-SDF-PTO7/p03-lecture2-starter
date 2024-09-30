@@ -1,5 +1,3 @@
-Here is a version of the README rewritten in transferable markdown:
-
 # Python Data Structures
 
 This repository contains Python examples and starter code for learning key data structures and concepts. The project covers lists, stacks, queues, sets, sequences (tuples, lists, and strings), and dictionaries. Each file contains well-structured code examples, and "TODO" items are included for students to further practice and expand their knowledge.
